@@ -1,7 +1,5 @@
 var playlist = { 
-  aviici : "Wake Me Up",
-  ladyGaga : "Born This Way",
-  beyonce : "Crazy in Love"
+  aviici : "Wake Me Up"
 };
 
 function updatePlaylist(playlist, artist, title) {
