@@ -1,4 +1,4 @@
-playlist = { 
+var playlist = { 
   aviici : "Wake Me Up",
   ladyGaga : "Born This Way",
   beyonce : "Crazy in Love"
